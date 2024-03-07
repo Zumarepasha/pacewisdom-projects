@@ -14,7 +14,7 @@ This is a simple Webpage created by HTML and CSS.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Zumarepasha/pacewisdom-projects.git
 ```
 
 Run the File
